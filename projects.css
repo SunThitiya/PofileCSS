@@ -1,0 +1,94 @@
+/* CSS files --> projects.html */
+.table-menu{
+    width:100%; 
+    text-align: center;
+}
+.table-menu td:hover{
+    background-color: rgb(168, 159, 159);
+}
+h1{
+    text-align: center; 
+    font-family: ABeeZee;
+    background: #5e8272;
+    background-image: -webkit-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -moz-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -ms-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -o-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: linear-gradient(to bottom, #5e8272, #bec6cc);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 1px #7099e0;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    border: solid #7b8287 2px;
+    text-decoration: none;
+}
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight:normal;
+    color: whitesmoke;
+    background-color: rgb(73, 54, 54);
+}
+.table-content h2{
+    background: #b6b7b8;
+  background-image: -webkit-linear-gradient(top, #b6b7b8, #4880f0);
+  background-image: -moz-linear-gradient(top, #b6b7b8, #4880f0);
+  background-image: -ms-linear-gradient(top, #b6b7b8, #4880f0);
+  background-image: -o-linear-gradient(top, #b6b7b8, #4880f0);
+  background-image: linear-gradient(to bottom, #b6b7b8, #4880f0);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 1px #7099e0;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  border: solid #7b8287 2px;
+  text-decoration: none;
+}
+.content{
+    width:100%; 
+    text-align: center;
+    color: whitesmoke;
+    
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(73, 54, 54);
+}
+th{
+    width: 50%; 
+    vertical-align: top;
+}
+.gallery {
+    margin: 10px;
+    border: 5px solid #ccc;
+    float: left;
+    width: 500px;
+}
+div.gallery:hover {
+    border: 5px solid rgb(119, 155, 221);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc:hover{
+    padding: 15px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(134, 132, 132);
+  }
+  .p-Footer{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(140, 135, 146);
+  }

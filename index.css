@@ -1,0 +1,101 @@
+/* CSS file --> index.html */
+/* (1) Tag Selector */
+h1{
+    text-align: center;
+    font-family: ABeeZee;
+        background: #5e8272;
+        background-image: -webkit-linear-gradient(top, #5e8272, #bec6cc);
+        background-image: -moz-linear-gradient(top, #5e8272, #bec6cc);
+        background-image: -ms-linear-gradient(top, #5e8272, #bec6cc);
+        background-image: -o-linear-gradient(top, #5e8272, #bec6cc);
+        background-image: linear-gradient(to bottom, #5e8272, #bec6cc);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        text-shadow: 1px 1px 1px #7099e0;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 30px;
+        padding: 10px 20px 10px 20px;
+        border: solid #7b8287 2px;
+        text-decoration: none;
+}
+h2{
+    text-align: center;
+    font-family: ABeeZee;
+    font-weight: normal;
+    color: whitesmoke;
+}
+h4{
+    text-align: center;
+    font-family: Aclonica;
+    font-weight: normal;
+    color: whitesmoke;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+    }
+img{
+    width: 60%;
+}
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: justify;
+    color: whitesmoke;
+    background-color: rgb(90, 86, 86);
+}
+.p-Name{
+    font-weight:normal;
+    color: whitesmoke;
+    background-color: rgb(167, 162, 162);
+}
+.p-Footer{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(140, 135, 146);
+}
+/* (3) Id Selector */        
+#th-Details{
+    text-align: left;
+}
+/* div */
+.table-menu td:hover{
+    background-color: rgb(168, 159, 159);
+}
+.Email p{
+    color: whitesmoke;
+}
+.Email a:hover{
+    background-color: rgb(160, 156, 156);
+}
+.name{
+    color: whitesmoke;
+    background-color: rgb(70, 67, 67);
+}
+.location{
+    color: whitesmoke;
+    background-color: rgb(70, 67, 67);
+}
+.p-nickname{
+    color: whitesmoke;
+    background-color: rgb(70, 67, 67);
+}
+.Nickname{
+    color: whitesmoke;
+    background-color: rgb(140, 135, 146);
+}
+.Social a:hover{
+        background-color: rgb(160, 156, 156);
+}
+.table-content h2{
+         background-color:rgb(61, 43, 43)
+}
+.table-content img:hover{
+    background-color: wheat;
+}

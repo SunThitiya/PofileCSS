@@ -1,0 +1,57 @@
+/* CSS file --> abilities.html */
+.table-menu{
+    width:100%; 
+    text-align: center
+}
+.table-menu td:hover{
+    background-color: rgb(168, 159, 159);
+}
+h1{
+    text-align: center; 
+    font-family: ABeeZee;
+    text-align: center; 
+    font-family: ABeeZee;
+    background: #5e8272;
+    background-image: -webkit-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -moz-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -ms-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: -o-linear-gradient(top, #5e8272, #bec6cc);
+    background-image: linear-gradient(to bottom, #5e8272, #bec6cc);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 1px #7099e0;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 30px;
+    padding: 10px 20px 10px 20px;
+    border: solid #7b8287 2px;
+    text-decoration: none;
+}
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight:normal;
+    color: whitesmoke;
+    background-color: rgb(73, 54, 54);
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(90, 35, 43);
+}
+.table-skills{
+    border: 5px solid rgb(196, 194, 194);
+    margin-left: auto; 
+    margin-right: auto;
+    width: 500px; 
+    height: 300px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(161, 163, 167);
+}
+.p-Footer{
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(140, 135, 146);
+  }
